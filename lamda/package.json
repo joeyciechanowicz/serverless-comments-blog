@@ -1,0 +1,14 @@
+{
+  "name": "lamda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getComments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npdynamodb": "^0.2.15"
+  }
+}
