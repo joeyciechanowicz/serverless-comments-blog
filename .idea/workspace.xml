@@ -24,16 +24,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getComments.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamda/getComments.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -62,8 +52,8 @@
         <option value="$PROJECT_DIR$/themes/kiss/layouts/partials/comments.html" />
         <option value="$PROJECT_DIR$/themes/mytheme/layouts/index.html" />
         <option value="$PROJECT_DIR$/themes/mytheme/layouts/_default/single.html" />
-        <option value="$PROJECT_DIR$/lamda/getComments.js" />
         <option value="$PROJECT_DIR$/lamda/packageAdd.sh" />
+        <option value="$PROJECT_DIR$/lamda/getComments.js" />
       </list>
     </option>
   </component>
@@ -160,12 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517570073269</updated>
-      <workItem from="1517570075201" duration="2964000" />
+      <workItem from="1517570075201" duration="3004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2964000" />
+    <option name="totallyTimeSpent" value="3004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="6" />
@@ -326,8 +316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lamda/getComments.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="136">
+          <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
           <folding />
         </state>
       </provider>

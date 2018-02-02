@@ -1,3 +1,5 @@
+process.env[‘PATH’] = process.env[‘PATH’] + ‘:’ + process.env[‘LAMBDA_TASK_ROOT’]
+
 const AWS = require("aws-sdk");
 const dynamodb = new AWS.DynamoDB();
 const npdynamodb = require("./npdynamodb");
